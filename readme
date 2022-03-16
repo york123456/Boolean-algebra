@@ -1,0 +1,5 @@
+範例:aa+a'b'+(a+c)af\n"
+說明:
+a' 是not\n
+aa 或 a.a 是AND
+a+a 是OR
