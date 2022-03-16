@@ -1,6 +1,6 @@
 範例:aa+a'b'+(a+c)af
 說明:
-a' 是not\n
+a' 是not
 aa 或 a.a 是AND
 a+a 是OR
 
